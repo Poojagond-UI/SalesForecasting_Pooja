@@ -57,6 +57,10 @@ The dashboard provides:
 - Historical sales visualization
 - Future sales forecast
 - Model prediction results
+## 🚀 Live Demo
+
+Streamlit Dashboard:
+https://salesforecastingpooja-yx4hsxoz9susrwtwxapqgb.streamlit.app
 
 ## 👩‍💻 Author
 
